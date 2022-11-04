@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="NeedIt Virtual Agent Conversations">63ca5ac097c71110717574400153af38</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 06:54:51</sys_created_on>
+        <sys_id>e50322c8974b1110717574400153aff9</sys_id>
+        <sys_name>VaTopicRuntimeUtil</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_909607_needit_vi">63ca5ac097c71110717574400153af38</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">63ca5ac097c71110717574400153af38</sys_scope>
+        <sys_update_name>sys_scope_privilege_e50322c8974b1110717574400153aff9</sys_update_name>
+        <target_name>VaTopicRuntimeUtil</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>
